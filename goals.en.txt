@@ -1,0 +1,99 @@
+===============================================================================
+                                 modmsg goals
+===============================================================================
+
+
+Services to Natural Language Framework
+
+Provide natural language interfaces to popular social services like surveys,
+reporting, health treatment, environmental education, disaster recovery, ride
+sharing, geo-location and translation.  Build web-based two-way communication
+tools conducive to the average program manager trying to collect and analyze
+data.
+
+Software Community
+
+Without community a piece of software has no future because it either gets
+stale or it never takes off because it has no purpose.  Leverage the growing
+and maturing ICT4D + JavaScript community.  Evolve past contact-us, demos and
+closed loop knowledge.
+
+Conversation API
+
+Publish a structure for service implementers to define a conversation tree
+that allows a service to communicate with a user.
+
+Open Specs
+
+Use open standards like OpenAPI to specify and publish our APIs.  Make them
+easy to document, test, fork and extend.  Open source our code but also
+realize well managed specs and documentation are often just as or more
+valuable than reference implementations.
+
+SMS+
+
+SMS (Short Message Service) and MMS are still one of the easiest and most
+prevalent ways to exchange information on the planet.  If you can use SMS you
+can start collecting data.  If your network is mainly composed of mobile
+phones from the 90s that hold a charge for a week, we got your back.
+
+Services would be connected to adapters for various messaging APIs like
+SMS/MMS/RCS Gateways, Facebook Messenger, IRC, Slack or any other available
+APIs deemed useful by the community.
+
+99% JavaScript
+
+Still need shell scripts though, long live Unix!  Less odd configuration and
+contexts, wherever possible everything has a well documented purely functional
+JS API.
+
+Zero Setup
+
+Build something that is easy to get up and running and play with immediately.
+If you need to hire an organization to configure your software then the
+software is broken.  Easily fork existing service modules and create a new
+service.
+
+No Data Lock-in
+
+All your data is always available for export in a common format like CSV, XLS
+and JSON.
+
+Distributed 
+
+We want to make it easy for you to host and own your data, and we don't want
+to host everyone's data.  Provide implementation details of a framework that
+can scale.
+
+All Languages
+
+It's an outrageous goal but let's break the language barrier!  English is great
+but we live on a planet with thousands of languages.  Polyglots we need you!
+
+Transparency
+
+All planning and decisions are publicized and up for debate, use the community
+to work together and find a process that strikes the right balance between
+fair and efficient.  Get onboard at Open Collective.
+
+Volunteer Based
+
+Stay volunteer focused by providing a framework for communities to iterate on
+the tools, whether it's documentation, tutorials, blog posts, videos or code.
+Keep a flat, non-totalitarian organizational structure with minimal hierarchy.
+
+Human Resources
+
+Let's face it, you can write the best software in the world but your most
+valuable assets are still human beings.  Don't forget that, build on it.
+
+Wealth in Ecology and Diversity
+
+Support the work of the indigenous populations in places like Ecuador, Bolivia
+and Brazil that are leading the way in ecological preservation with things
+like the Rights of Nature amended to their constitutions.
+
+Imminent Global Catastrophe
+
+Power is in the hands of the governed, get to work.
+
